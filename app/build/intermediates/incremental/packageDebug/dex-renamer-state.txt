@@ -1,0 +1,7 @@
+#Thu Feb 02 08:52:59 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Graphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_790ead47864fc075d7be69a8fc6d06631611efc5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Graphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad142f46c072c15a113f944c306646af4d9b9a50\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Graphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad142f46c072c15a113f944c306646af4d9b9a50
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Graphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_790ead47864fc075d7be69a8fc6d06631611efc5\\classes.dex
